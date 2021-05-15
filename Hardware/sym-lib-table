@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name BMD101)(type Legacy)(uri D:/KicadSymbs/BMD101/BMD101.lib)(options "")(descr ""))
+  (lib (name WatchLX-rescue)(type Legacy)(uri ${KIPRJMOD}/WatchLX-rescue.lib)(options "")(descr "")(disabled))
+)
